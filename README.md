@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Crazy black ball
 
-Author: (TODO: your name)
+Author: Wenxuan Huang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Born as the black ball in the pool game, you need to hit all other ball down before you fall down by yourself.
 
 Screen Shot:
 
@@ -10,7 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD to add force on the black ball.
 
 Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
 
