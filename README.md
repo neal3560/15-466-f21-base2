@@ -6,7 +6,7 @@ Design: Born as the black ball in the pool game, you need to hit all other ball 
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](screenshot1.png)
 
 How To Play:
 
