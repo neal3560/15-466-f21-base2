@@ -12,7 +12,7 @@ How To Play:
 
 WASD to add force on the black ball.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources:  pool.blend -- Jim McCann
 
 This game was built with [NEST](NEST.md).
 
